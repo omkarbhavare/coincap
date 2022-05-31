@@ -1,0 +1,52 @@
+#footer{
+    background:linear-gradient(to right,#4055B7 15%,#61AeF1) ;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 50px;
+    color: #A4C2EC;
+    
+}
+
+.col{
+    height: 300px;
+    
+    font-size: 18px;
+    font-weight: 500;
+}
+.col h4{
+    color: #FFFFF9;
+}
+
+
+.coincap li{
+    margin: 3px 0;
+    list-style: none;
+    
+}
+
+.coincap h4{
+    margin-left: 40px;
+    
+}
+
+.legals-disclaimer{
+    display: block;
+    width: 280px;
+    
+}
+
+
+.legals-disclaimer li{
+    list-style: none;
+    margin: 3px 0;
+    margin-left: -40px;
+}
+
+.follow-us i{
+    margin:0 10px ;
+}
+
+.coincap-app img{
+   width: 200px;
+}
